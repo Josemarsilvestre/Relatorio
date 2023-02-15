@@ -20,9 +20,9 @@ Junto desta página, encontramos o bloco de pesquisa, em que poderá pesquisar o
 1 - Aplicativo ainda não esta terminado.
 
 #### Usar o Aplicativo no dispositivo físico<br/>
-1 - Instalar o Expo Go no telemóvel
-2 - Abrir o Prompt de Comando no Computador
-3 - Adicionar o destino da pasta. Ex: (cd C:\Users\josim\OneDrive\Ambiente de Trabalho\Relatório\Relatorio)
-4 - Executar o comando: Npx expo start
-5 - Capturar o QR Code com a aplicção Expo Go.
-6 - Feito!
+1 - Instalar o Expo Go no telemóvel<br/>
+2 - Abrir o Prompt de Comando no Computador<br/>
+3 - Adicionar o destino da pasta. Ex: (cd C:\Users\josim\OneDrive\Ambiente de Trabalho\Relatório\Relatorio)<br/>
+4 - Executar o comando: Npx expo start<br/>
+5 - Capturar o QR Code com a aplicção Expo Go.<br/>
+6 - Feito!<br/>
